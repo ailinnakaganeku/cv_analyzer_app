@@ -1,0 +1,42 @@
+{
+  "title": "Analizador de CV - MVP",
+  "subtitle": "Sube tu CV para un análisis instantáneo",
+  "dropzone": {
+    "title": "Arrastra tu CV aquí",
+    "subtitle": "o haz clic para seleccionar archivo",
+    "formats": "Formatos aceptados: PDF, DOCX (Máx 10MB)"
+  },
+  "errors": {
+    "format": "Formato de archivo inválido. Por favor sube un archivo PDF o DOCX.",
+    "size": "Archivo demasiado grande. El tamaño máximo es 10MB.",
+    "upload": "Error al subir el archivo. Por favor intenta de nuevo.",
+    "analysis": "Error al analizar el CV. Por favor intenta de nuevo."
+  },
+  "loading": "Analizando tu CV...",
+  "results": {
+    "title": "Resultados del Análisis",
+    "filename": "Archivo analizado:",
+    "sections": {
+      "title": "Secciones del Documento",
+      "contact": "Información de Contacto",
+      "summary": "Resumen Profesional",
+      "experience": "Experiencia Laboral",
+      "education": "Educación"
+    },
+    "length": "Análisis de Longitud",
+    "sensitive": {
+      "title": "Contenido Sensible",
+      "none": "No se detectó contenido sensible"
+    },
+    "verbs": "Análisis de Verbos de Acción",
+    "spelling": {
+      "title": "Revisión Ortográfica",
+      "none": "No se encontraron errores ortográficos comunes",
+      "suggestions": "Sugerencias:"
+    }
+  },
+  "actions": {
+    "analyze": "Analizar Otro CV",
+    "templates": "Descargar Plantillas Básicas"
+  }
+}
